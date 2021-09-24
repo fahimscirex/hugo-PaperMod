@@ -141,7 +141,7 @@
 }
 
 .post-content table th {
-    font-size: 14px;
+    font-size: 20px;
     text-align: start;
 }
 
@@ -237,7 +237,9 @@
 
 .post-content img {
     border-radius: 4px;
-    margin: 1rem 0;
+    max-width: 50%;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .post-content img[src*="#center"] {
